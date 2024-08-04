@@ -23,6 +23,10 @@ Click add structure button to add a new structure input, then chooses the type o
 
 Clicking the remove structure button will remove the bottom input.
 
+Select wether you want to crack the structureseed(if not then it will only output the lower 32 bits of the seed).
+
+Select wether you want the structureseeds to be print to a file.
+
 When you are done click the Generate list button.
 
 In case your antivirus triggers on the .exe(which happens due to the entire python interpreter packed inside) you need to run the python file.
