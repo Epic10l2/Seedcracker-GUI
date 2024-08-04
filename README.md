@@ -33,3 +33,4 @@ In case your antivirus triggers on the .exe(which happens due to the entire pyth
 
 If you have any more questions feel free to dm me over discord (@epic10l2 ).
 
+
