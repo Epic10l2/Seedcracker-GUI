@@ -1,4 +1,10 @@
 # Seedcracker-GUI
+
+
+# Note: This GUI was made for an outdated version of my structurecracker, it no longer holds a purpose and is just here as a reminder for my failures.
+
+
+
 GUI to simplify inputting into my java seedcracker.
 
 How to use:
